@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto</title>
+</head>
+<body>
+    <header>
+        <h1>Confira nossos protejos</h1>
+        <img src="https://media.istockphoto.com/id/1081665672/pt/vetorial/cute-bull-terrier-dog-running-vector-illustration.jpg?s=612x612&w=0&k=20&c=J_is4CtYem7eZTZsAlJ4u8N7vHSnHZwQakqJeQLkpus=" alt="plano de fundo do site" width="200px"     
+    </header>
+
+    <main>
+        <section>
+            <h2>Nossos projetos</h2>
+            <p>Criação de projetos para salvar animais abandonados.</p>
+            <img src=""  alt="Bruce Bull Terrier"
+        </section>
+
+        <section>
+            <h2>Missão da ONG Aumigão</h2>
+            <p>Promover dignidade e oportunidade de acolhimento aos animais abandonados</p>
+        </section>
+
+        <article>
+            <img src="imagens/cachorro-abraco.webp" alt="cachorro-abraco" width="150px"
+            <img src="imagens/cachorros-se-alimentando.webp" alt="cachorros-se-alimentando" width="150px"
+            <img src="imagens/cachorros-brincando.avif" alt="cachorros-brincando" width="150px"
+        </article>
+
+    </main>
+
+</body>
